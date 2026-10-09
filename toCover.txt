@@ -1,0 +1,9 @@
+components
+jsx
+Props and Props Drilling
+conditional rendering
+data showing with map
+event handler onclick
+state
+data fetch
+lifting state up
